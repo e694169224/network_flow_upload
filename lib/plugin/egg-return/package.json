@@ -1,0 +1,6 @@
+{
+  "description": "customization http error response status and response statusMessage for egg",
+  "eggPlugin": {
+    "name": "return"
+  }
+}
